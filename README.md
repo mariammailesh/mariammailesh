@@ -1,3 +1,4 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 <h2 align="left">Hello Wrold! 
  <div> My name is Mariam and I'm a Full-Stack Web Developer, from Jordan! </div>
   <h2>
