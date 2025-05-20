@@ -4,12 +4,12 @@
   <h2>
 <p align="left">
   <sub> 
-  -🔭 I’m currently doing a Full-Stack Web Development internship using ASP.NET Core and Angular<br>
+  -🔭 I’m currently finishing a Full-Stack Web Development internship using ASP.NET Core, Angular and SQL Server<br>
   -👯 I’m looking to collaborate on web apps built with .NET and modern JavaScript frameworks<br>
   -🤝 I’m looking for help with mastering Angular and building dynamic, responsive frontends<br>
   -🌱 I’m currently learning Angular, TypeScript, and advanced frontend development practices<br>
   -💬 Ask me about C#, .NET Core, SQL Server, or building full-stack applications<br>
-  -⚡ Fun fact: I built a mobile shopping app with role-based login and OTP verification for my graduation project!
+  -⚡ Fun fact: I built a full API for an online restaurant mobile Application
     </sub>
 </p>
   <br></br>
