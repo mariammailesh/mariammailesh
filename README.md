@@ -6,7 +6,6 @@
   <sub> 
   -🔭 I finished a Full-Stack Web Development internship using ASP.NET Core and SQL Server<br>
   -👯 I’m looking to collaborate on web apps built with ASP.NET Core<br>
-  -🤝 I’m looking for help with mastering Angular and building dynamic, responsive frontends0<br>
   -🌱 I’m currently learning Angular, TypeScript, and advanced frontend development practices<br>
   -💬 Ask me about C#, ASP.NET Core, SQL Server, or building full-stack applications<br>
   -⚡ Fun fact: I built a full API Back-End for an online restaurant mobile Application
